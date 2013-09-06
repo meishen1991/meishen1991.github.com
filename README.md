@@ -1,4 +1,4 @@
-zzgary.github.com
+zzgary
 =================
 
 personal portfolio
