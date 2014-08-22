@@ -1,8 +1,8 @@
-{% include header.html %}
+
 pygments: true
 permalink: /blog/:year/:month/:day/:title.html
 paginate: 5
 site.posts
 paginate_path: "blog/page-:num"
-{% include footer.html %}
+
 
