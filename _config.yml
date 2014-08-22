@@ -1,6 +1,6 @@
 pygments: true
 permalink: /blog/:year/:month/:day/:title.html
 paginate: 5
-paginator.per_page:2
+
 paginate_path: "blog/page-:num"
 
