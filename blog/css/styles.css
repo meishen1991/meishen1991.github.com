@@ -1,7 +1,9 @@
 /*css的例子：*/
 
+ /* 大概就是这么个意思， 怎么调样式之类的， 你自己调就行了。 */
+
 body,html{
-  background-color: rgba(0,0,0,1);
+  background-color: rgb(215, 250, 218);
   width:100%;
   height: 100%;
   padding-top:50px;
@@ -23,7 +25,7 @@ div#header{
 div.logo{
   float: left;
 }
-div.log p{
+div.logo p{
   display: inline-block;
   margin-left: 20px;
 }
