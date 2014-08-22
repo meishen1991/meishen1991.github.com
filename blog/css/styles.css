@@ -12,14 +12,14 @@ body,html{
 
 div#header{
   position: fixed;
-  height: 50px;
+ 
   width:100%;
   top:0px;
   padding:0 0 0 200px;
   /*padding : top right bottom left ;*/
   background-color: rgb(233, 116, 196);
   color: yellow;
-  font: bold 22px/35px Tahoma;
+  font: bold 40px/35px Tahoma;
 }
 
 div.logo{
