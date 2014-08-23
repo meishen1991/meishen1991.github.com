@@ -17,8 +17,8 @@ div#header{
   top:0px;
   padding:0 0 0 200px;
   /*padding : top right bottom left ;*/
-  background-color: rgb(217,225,200);
-  color: yellow;
+  background-color:#E066FF ;
+  color: #4F94CD;
   font: bold 40px/35px Tahoma;
 }
 
