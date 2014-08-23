@@ -12,8 +12,8 @@ body,html{
 
 div#header{
   position: fixed;
-  height：
-  width:100%;
+  height:115px;
+  width:970px;
   top:0px;
   padding:0 0 0 200px;
   /*padding : top right bottom left ;*/
