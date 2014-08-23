@@ -255,7 +255,7 @@ a:active { background: white; }
 }
 
 .index #wrap {
-  width: 640px;
+  width: 800px;
   margin: 0 auto;
 }
 
@@ -289,7 +289,7 @@ hr {
 .index section h3 {
   font-size: 40px;
   line-height: 1.2em;
-  color: white;
+  color: blue;
   margin-bottom: 0.1em;
   
 }
