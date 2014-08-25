@@ -2,7 +2,7 @@
 
  /* 大概就是这么个意思， 怎么调样式之类的， 你自己调就行了。 */
 
-body,html{
+body,html{padding:100px;
   background-color: rgb(215, 250, 218);
   width:100%;
   height: 100%;
@@ -35,9 +35,7 @@ div.logo p{
 
 
 div.wrapper ul{
-  position: absolute;
-  left: 200px;
-  top: 250px;
+  
   color: #4F94CD;
   font: bold 20px/25px Tahoma
   list-style: none;
