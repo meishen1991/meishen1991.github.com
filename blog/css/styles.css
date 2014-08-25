@@ -32,11 +32,13 @@ div.logo p{
 }
 
 div.wrapper ul{
+  color: #4F94CD;
+  font: bold 20px/25px Tahoma
   list-style: none;
   line-height: 30px;
   color: black;
 }
 
 ul a{
-  color: rgb(106,90,205);
+  color: white;
 }
