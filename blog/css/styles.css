@@ -14,10 +14,10 @@ div#header{
   position: fixed;
   height:115px;
   width:970px;
-  top:0px;
+  top:30px;
   padding:0 0 0 200px;
   /*padding : top right bottom left ;*/
-  background-image: url('head2.jpg'); width:100%; height:100px;
+  background-image: url('head.jpg'); width:100%; height:100px;
   
   color: #4F94CD;
   font: bold 40px/35px Tahoma;
