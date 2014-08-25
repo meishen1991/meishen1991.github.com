@@ -2,7 +2,7 @@
 
  /* 大概就是这么个意思， 怎么调样式之类的， 你自己调就行了。 */
 
-body,html{padding:100px;
+body,html{
   background-color: rgb(215, 250, 218);
   width:100%;
   height: 100%;
