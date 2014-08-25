@@ -32,6 +32,9 @@ div.logo p{
 }
 
 div.wrapper ul{
+  position: relative;
+  left: 30px;
+  top: 150px;
   color: #4F94CD;
   font: bold 20px/25px Tahoma
   list-style: none;
